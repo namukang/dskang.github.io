@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>{{ page.title }}</title>
+   <meta name="author" content="Dan Kang" />
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+
+   <!-- Google Analytics -->
+   <script type="text/javascript">
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-23357698-1']);
+     _gaq.push(['_trackPageview']);
+     (function() {
+     var ga = document.createElement('script'); ga.type =
+     'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+     : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0];
+     s.parentNode.insertBefore(ga, s);
+     })();
+   </script>
+   <!-- Google Analytics end -->
+</head>
+<body>
+
+<div class="site">
+  <div class="title">
+    <a href="/">Dan Kang</a>
+    <a class="extra" href="/">home</a>
+  </div>
+
+  {{ content }}
+
+  <div class="footer">
+    <div class="contact">
+      <p>
+        Dan Kang<br />
+        dan@dskang.com
+      </p>
+    </div>
+    <div class="contact">
+      <p>
+        <a href="http://github.com/dskang/">github.com/dskang</a><br />
+        <a href="http://twitter.com/danskang/">twitter.com/danskang</a><br />
+      </p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
