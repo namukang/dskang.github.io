@@ -154,15 +154,9 @@ ul.posts span {
     float: right;
 }
 
-.site .footer .icons {
-    margin-top: 1.3em;
-    margin-bottom: 1em;
-    float: right;
-}
-
-.site .footer .icons img {
+.site .icons img {
     border: 0;
-    margin-left: 0.5em;
+    margin-left: 0.2em;
 }
 
 /*****************************************************************************/
