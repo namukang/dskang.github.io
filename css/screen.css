@@ -149,6 +149,11 @@ ul.posts span {
     color: #8085C1;
 }
 
+.icons {
+    margin-top: 0.2em;
+    float: right;
+}
+
 .site .footer .icons {
     margin-top: 1.3em;
     margin-bottom: 1em;
