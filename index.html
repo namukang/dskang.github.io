@@ -3,10 +3,28 @@ layout: default
 title: Dan Kang
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="title">
+      <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
+    </h1>
+    <div class="content">
+      {{ post.content }}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  <span class="previous">
+    {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Previous</a>
+    {% endif %}
+  </span>
+  <span class="next">
+    {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}/" title="Next Page">Next &raquo;</a>
+    {% endif %}
+  </span>
+</div>
