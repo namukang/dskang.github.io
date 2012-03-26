@@ -137,7 +137,6 @@ ul.posts span {
     font-size: 80%;
     color: #666;
     border-top: 4px solid #eee;
-    margin-top: 2em;
     overflow: hidden;
 }
 
@@ -150,14 +149,15 @@ ul.posts span {
     color: #8085C1;
 }
 
-.site .footer .rss {
-    margin-top: 1.1em;
-    margin-right: -.2em;
+.site .footer .icons {
+    margin-top: 1.3em;
+    margin-bottom: 1em;
     float: right;
 }
 
-.site .footer .rss img {
+.site .footer .icons img {
     border: 0;
+    margin-left: 0.5em;
 }
 
 /*****************************************************************************/
