@@ -10,6 +10,7 @@ title: Dan Kang
       <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
     </h1>
     <div class="content">
+      <p class="meta">{{ post.date | date_to_string }}</p>
       {{ post.content }}
     </div>
   </div>

@@ -3,8 +3,6 @@ layout: post
 title: Being Wrong
 ---
 
-<p class="meta">26 March 2012</p>
-
 Every day, I go on [Hacker News](http://news.ycombinator.com) and
 various blogs to stay up-to-date with the latest tech news and cool
 projects. After a few months of doing this, I've noticed something
