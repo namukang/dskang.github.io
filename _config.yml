@@ -1,9 +1,6 @@
 permalink: /:title/
 paginate: 10
 
-auto: true
-server: true
-
 # Github settings
 safe: true
 lsi: false
