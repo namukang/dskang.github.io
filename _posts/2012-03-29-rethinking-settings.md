@@ -68,8 +68,8 @@ the settings page. With this system, you can skip the entire step of
 searching for solutions and know exactly which settings may affect the
 behavior you're experiencing. For example, if my girlfriend were to
 type "iphone gmail incorrect password" into this settings query box,
-Google would know that 2-step verification could cause a problem with
-mobile application and display the setting to add an
+Google would know that 2-step verification could cause problems with
+using mobile applications and display the setting to add an
 application-specific password. This would provide a much better
 experience than searching through settings tabs and countless forums,
 hoping that the next random suggestion might solve your problem.
