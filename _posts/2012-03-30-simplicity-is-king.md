@@ -15,7 +15,7 @@ I've created the following:
   Princeton students to talk to each other
 
   <a href="/images/tigertalk.png"><img src="/images/tigertalk.png"
-  width="580px" /></a>
+  width="560px" /></a>
 
 * [Web Timer](https://chrome.google.com/webstore/detail/ggnjbdfgigejghknieofeahaknkjafim)
   ([Source](https://github.com/dskang/webtimer)) - a Chrome extension
@@ -29,7 +29,7 @@ I've created the following:
   them see where their friends are going out to party
 
   <a href="/images/tigerpass.png"><img src="/images/tigerpass.png"
-  width="580px" /></a>
+  width="560px" /></a>
 
 Out of all of the above, I spent the most time building TigerTalk.
 Despite not having a lot of users, I poured hours into making new
