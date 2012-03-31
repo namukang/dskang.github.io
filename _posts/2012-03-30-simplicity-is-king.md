@@ -56,5 +56,6 @@ resonates with users or not, and it helps you avoid sinking too much
 time into a project that will never take off. It's important to know
 how to work hard and battle through hard times, but it's just as
 important to know when to quit if something just isn't working. As
-long as you keep it simple, you're bound to eventually succeed.
+long as you keep it simple, your chances of success will be much
+higher.
 
