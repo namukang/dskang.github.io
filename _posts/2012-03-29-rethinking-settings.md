@@ -37,7 +37,8 @@ number, printable backup codes), one setting for application-specific
 passwords, and two advanced settings for clearing the phone info and
 printable codes and managing trusted computers.
 
-![2-step verification settings](http://i.imgur.com/p7UES.png?1)
+<a href="/images/2-step.png"><img src="/images/2-step.png"
+width="580px" /></a>
 
 Oh, and you need to go to your Google Account settings to change these
 settings, even though it's perfectly understandable why someone would
