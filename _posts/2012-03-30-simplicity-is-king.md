@@ -17,7 +17,7 @@ I've created the following:
   <a href="/images/tigertalk.png"><img src="/images/tigertalk.png"
   width="580px" /></a>
 
-* [Web Timer](http://goo.gl/uH4WX)
+* [Web Timer](https://chrome.google.com/webstore/detail/ggnjbdfgigejghknieofeahaknkjafim)
   ([Source](https://github.com/dskang/webtimer)) - a Chrome extension
   that keeps track of how you spend your time online
 
