@@ -50,11 +50,11 @@ before devoting hours into a project that might completely go to
 waste. Sure, you'll get some experience out of building a system with
 a ton of features, but you could have spent that time building
 something that people will actually use. It turns out that keeping
-your applications simple have a two-fold benefit: it lays naked the
+your applications simple has a two-fold benefit: it lays naked the
 core idea behind your application so you can easily tell whether it
-resonates with users or not, and it allows you to avoid sinking too
-much time into a project that will never take off. It's important to
-know how to work hard and battle through hard times, but it's just as
+resonates with users or not, and it helps you avoid sinking too much
+time into a project that will never take off. It's important to know
+how to work hard and battle through hard times, but it's just as
 important to know when to quit if something just isn't working. As
 long as you keep it simple, you're bound to eventually succeed.
 
