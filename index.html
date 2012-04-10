@@ -20,7 +20,11 @@ title: Dan Kang
 <div class="pagination">
   <span class="previous">
     {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="/" title="Previous Page">&laquo; Previous</a>
+    {% else %}
     <a href="/page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Previous</a>
+    {% endif %}
     {% endif %}
   </span>
   <span class="next">

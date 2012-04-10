@@ -61,6 +61,10 @@ table {
     margin-bottom: 2em;
 }
 
+.pagination {
+    overflow: hidden;
+}
+
 .pagination a {
     text-decoration: none;
 }
