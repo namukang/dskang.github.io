@@ -231,3 +231,8 @@ ul.posts span {
 #related h2 {
     margin-bottom: 1em;
 }
+
+blockquote {
+    padding: 1em 2em;
+    background-color: #EEE;
+}
