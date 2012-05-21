@@ -84,8 +84,8 @@ amusing that I accepted them and had them displayed on the site.
 Haters gonna hate.
 
 But this latest post was less an attack on the website itself and more
-a claim about something I've put a lot of thought into: who's going to
-become the de facto PrincetonFML site. Ultimately, only one will
+a claim about something I've put a lot of thought into: which site
+will become the de facto PrincetonFML site. Ultimately, only one will
 remain.
 
 Is the claim in the submission true? It's entirely possible that the
