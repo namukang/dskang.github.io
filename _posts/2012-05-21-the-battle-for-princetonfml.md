@@ -117,3 +117,6 @@ anything, I wish I had launched earlier.
 
 3. Fuck the haters. Don't let anyone discourage you when you're
 putting in your hard work to make something awesome.
+
+Update (5/29/2012): CollegeFML and its sites have been restored.
+
